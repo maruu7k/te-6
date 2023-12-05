@@ -1,0 +1,21 @@
+{
+  "name": "te-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest html.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "detect-newline": "^4.0.1"
+  },
+  "engines": {
+    "node": "20.7.0"
+  }
+}
